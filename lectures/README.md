@@ -18,9 +18,14 @@ This directory contains hands-on practice and notes from database-related course
 ## 🗂 Folder Structure
 
 /database
+
 └── /lectures
+
 ├── /01_database_intro # Inflearn - Database Introduction
+
 ├── /02_database_basic # Inflearn - Database Fundamentals
+
 ├── /03_database_design # Inflearn - Database Design
+
 └── /mysql_admin_udemy # Udemy - MySQL Administration (planned)
 

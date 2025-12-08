@@ -45,6 +45,8 @@ sudo mkdir -p /DATA/mysql_logs
 sudo chown -R mysql:mysql /mysql
 sudo chown -R mysql:mysql /DATA
 
+```
+
 ---
 ## 4. 🚨 Troubleshooting (Key Challenges)
 

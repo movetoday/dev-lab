@@ -32,7 +32,7 @@ Running on an EC2 instance with `glibc 2.39`, I selected the **Generic Linux (gl
 
 ```bash
 # 1. Download & Extract
-wget [https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.44-linux-glibc2.28-x86_64.tar.xz](https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.44-linux-glibc2.28-x86_64.tar.xz)
+wget https://dev.mysql.com/get/Downloads/MySQL-8.0/mysql-8.0.44-linux-glibc2.28-x86_64.tar.xz
 tar -xvf mysql-8.0.44-linux-glibc2.28-x86_64.tar.xz
 sudo mv mysql-8.0.44-linux-glibc2.28-x86_64 /mysql
 
